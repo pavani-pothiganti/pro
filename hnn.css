@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+.navbar{
+    overflow: hidden;
+}
+.navbar a{
+    text-decoration: none;
+    padding: 70px;
+    display: block;
+    text-align: center;
+    float: left;
+
+}
+.navbar a:hover{
+    background-color: purple;
+    color:white;
+}
